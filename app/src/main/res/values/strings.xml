@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeepLinkDemo</string>
+    <string name="no_link">getDynamicLink: no link found</string>
+    <string name="invitation_title">Invite Othe users</string>
+    <string name="invitation_msg">Invite</string>
+    <string name="send_failed">Send failed</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://example.com\",\n  }\n}]</string>
+</resources>

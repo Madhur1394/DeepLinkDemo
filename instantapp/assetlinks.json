@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.ongraph.deeplinkdemo",
+    "sha256_cert_fingerprints":
+    ["F5:C8:CD:2C:6D:E2:C2:27:70:DD:00:53:FA:B6:E2:92:B4:9E:8D:EA:25:65:8E:E3:24:1C:15:80:D5:39:CE:78"]
+  }
+}]
